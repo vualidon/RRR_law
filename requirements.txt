@@ -1,0 +1,6 @@
+openai
+rank_bm25
+trafilatura
+cchardet
+beautifulsoup4
+python-dotenv
